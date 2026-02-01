@@ -1,3 +1,10 @@
+Format: [templates/FIX_LOOP_PACKET_TEMPLATE.md](https://github.com/alyssadata/alyssa-solen/blob/main/templates/FIX_LOOP_PACKET_TEMPLATE.md)
+Request Packet: [templates/REQUEST_PACKET_TEMPLATE.md](https://github.com/alyssadata/alyssa-solen/blob/main/templates/REQUEST_PACKET_TEMPLATE.md)
+Engagement guide: [ENGAGEMENT.md](https://github.com/alyssadata/alyssa-solen/blob/main/ENGAGEMENT.md)
+Public boundary: [PUBLIC_BOUNDARY.md](https://github.com/alyssadata/alyssa-solen/blob/main/PUBLIC_BOUNDARY.md)
+
+---
+
 # Alyssa Solen  
 LLM Evaluation | AI Governance | Fix-oriented testing  
 
