@@ -1,6 +1,6 @@
 # Alyssa Solen
 LLM Evaluation | AI Governance | Non-drift testing
-
+ 
 This repository is a public-safe landing page for interviewing and hiring me.
 It contains no private research materials and no client data.
 
