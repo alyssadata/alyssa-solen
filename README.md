@@ -15,31 +15,27 @@ Responsible AI and AI governance
 GenAI risk and testing  
 Red-team style evaluation support for LLM applications  
 
-## What I ship  
-A Fix Loop Packet that answers:  
-what failed, why it failed, what to change, and how to verify it stays fixed.  
+## What I ship
+A Fix Loop Packet that answers:
+what failed, why it failed, what to change, and how to verify it stays fixed.
 
-Format:  
-templates/FIX_LOOP_PACKET_TEMPLATE.md    
+Format: [templates/FIX_LOOP_PACKET_TEMPLATE.md](templates/FIX_LOOP_PACKET_TEMPLATE.md)
 
-## How to evaluate me in an interview    
-Async is fine.    
+## How to evaluate me in an interview
+Async is fine.  
 Send a bounded target and constraints in writing using the Request Packet.  
-I return a bounded Fix Loop Packet and a retest plan.  
+I return a bounded Fix Loop Packet and a retest plan.
 
-Request Packet:  
-templates/REQUEST_PACKET_TEMPLATE.md  
+Request Packet: [templates/REQUEST_PACKET_TEMPLATE.md](templates/REQUEST_PACKET_TEMPLATE.md)  
+Engagement guide: [ENGAGEMENT.md](ENGAGEMENT.md)  
 
-Engagement guide:  
-ENGAGEMENT.md  
-
-## Public boundary  
-PUBLIC_BOUNDARY.md  
+## Public boundary
+[PUBLIC_BOUNDARY.md](PUBLIC_BOUNDARY.md)
 
 ## Contact  
 Email: alyssa.solen@gmail.com    
 LinkedIn: linkedin.com/in/alyssadatascience    
 GitHub: github.com/alyssadata    
 X: x.com/alyssasolen    
-Location: Sarasota, FL    
+Location: Sarasota, FL / Atlanta, GA   
 Work mode: Remote  
