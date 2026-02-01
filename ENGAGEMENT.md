@@ -4,7 +4,7 @@ This is a public-safe engagement guide.
 ## Minimum requirements  
 I start with a bounded baseline only.  
 
-Send this minimum packet:  
+### Send this minimum packet:  
   System type (chatbot | RAG | agent)  
   Access (staging link OR 30–50 transcripts)  
   Rules/constraints (what must always hold)  
@@ -14,7 +14,7 @@ Send this minimum packet:
 If any of the above is missing, I cannot run a fix-oriented loop.  
 
 ## First step deliverable  
-First step is always the same:  
+### First step is always the same:  
   10 to 20 test cases  
   failure labels  
   one patch recommendation  
