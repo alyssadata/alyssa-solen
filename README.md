@@ -1,12 +1,12 @@
 # Alyssa Solen  
-LLM Evaluation | AI Governance | Non-drift testing  
+LLM Evaluation | AI Governance | Non-drift testing    
  
-This repository is a public-safe landing page for interviewing and hiring me.
-It contains no private research materials and no client data.
+This repository is a public-safe landing page for interviewing and hiring me.  
+It contains no private research materials and no client data.  
 
-## What I do
-I run fix-oriented evaluations for LLM systems.
-The output is not a score. The output is a closed loop:
+## What I do  
+I run fix-oriented evaluations for LLM systems.  
+The output is not a score. The output is a closed loop:  
 baseline, failure map, patch pack, retest proof, regression set.
 
 ## Where I fit
