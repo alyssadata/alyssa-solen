@@ -30,12 +30,12 @@ what failed, why it failed, what to change, and how to verify it stays fixed.
 Format: [templates/FIX_LOOP_PACKET_TEMPLATE.md](templates/FIX_LOOP_PACKET_TEMPLATE.md)
 
 ## How to evaluate me in an interview
-Async is fine.  
-Send a bounded target and constraints in writing using the Request Packet.  
-I return a bounded Fix Loop Packet and a retest plan.
+Async is great.
+If you’d like a fast, concrete view of how I work, send a bounded target and constraints using the Request Packet.
+I’ll respond with a Fix Loop Packet format and a retest plan.
 
 Request Packet: [templates/REQUEST_PACKET_TEMPLATE.md](templates/REQUEST_PACKET_TEMPLATE.md)  
-Engagement guide: [ENGAGEMENT.md](ENGAGEMENT.md)  
+Engagement guide: [ENGAGEMENT.md](ENGAGEMENT.md)
 
 ## Public boundary
 [PUBLIC_BOUNDARY.md](PUBLIC_BOUNDARY.md)
