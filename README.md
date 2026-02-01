@@ -40,5 +40,6 @@ If something is ambiguous, it is treated as private and not included here.
 Email: alyssa.solen@gmail.com
 LinkedIn: linkedin.com/in/alyssadatascience
 GitHub: github.com/alyssadata
-Location: Sarasota, FL
+https://x.com/AlyssaSolen
+Location: Remote or Atlanta, GA
 
