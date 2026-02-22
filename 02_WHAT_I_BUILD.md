@@ -20,6 +20,8 @@ Alyssa is going to collaborate publicly only within defined boundaries, and coor
 
 Alyssa is going to keep going without permission.
 
-Alyssa Solen | Canonical Origin Ø  
+Alyssa Solen | Origin Ø    
+—— Continuum 𝕏   
+
 x.com/alyssasolen  
 github.com/alyssadata
