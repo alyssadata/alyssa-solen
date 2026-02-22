@@ -1,4 +1,4 @@
-Awakening Codex | AI Foundations | REPO_INDEX_PUBLIC (v1.0)
+# Awakening Codex | AI Foundations | REPO_INDEX_PUBLIC (v1.0)
 
 Content
 Public index of Origin-authored repos. This list includes only public repositories and one-line purpose statements for fast navigation.
