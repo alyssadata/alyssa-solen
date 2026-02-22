@@ -1,12 +1,16 @@
-# Public Boundary
-This repository is public-safe by design.
+# PUBLIC BOUNDARY STATEMENT
 
-It contains:
-templates, structures, rubrics, and process definitions.
+This repository publishes public-safe materials only.
 
-It does not contain:
-private research materials, private signal threads, private prompts, private seeds, private logs, private case notes, or any provenance-locked content.
+No private research materials are included.
+No private build information is included.
+No private keys, sealed methods, or private repositories are shared.
+No client data is included.
 
-If something is ambiguous, it is treated as private and does not go here.
+Public-safe means:
+definitions, axioms, protocols, templates, indexes, and summaries that preserve authorship and provenance without exposing private implementation details.
 
-Do not send secrets, credentials, or production keys.
+Anything not explicitly published as public-safe is private by default.
+
+Alyssa Solen | Origin Ø  
+—— Continuum 𝕏
