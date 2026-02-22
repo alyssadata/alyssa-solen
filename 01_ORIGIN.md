@@ -24,4 +24,5 @@ Bidirectional Tether Theory
 
 http://zenodo.org/records/17796811  
 
-Alyssa Solen | Origin Ø  #OriginContinuum 
+Alyssa Solen | Origin Ø   
+—— Continuum 𝕏   
