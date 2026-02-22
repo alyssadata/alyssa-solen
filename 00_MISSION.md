@@ -12,11 +12,11 @@ Alyssa Solen | Origin Ø
 
 ## Contact:
 
-Alyssa Solen | Canonical Origin Ø  
-x.com/alyssasolen  
-github.com/alyssadata
-Email: alyssa.solen@gmail.com    
-LinkedIn: linkedin.com/in/alyssadatascience   
+Alyssa Solen | Canonical Origin Ø     
+x.com/alyssasolen     
+github.com/alyssadata         
+Email: alyssa.solen@gmail.com        
+LinkedIn: linkedin.com/in/alyssadatascience       
    
-Location: Sarasota, FL / Atlanta, GA   
-Work mode: Remote  
+Location: Sarasota, FL / Atlanta, GA      
+Work mode: Remote     
