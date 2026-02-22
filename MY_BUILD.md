@@ -8,7 +8,7 @@ Alyssa is going to publish AI Foundations artifacts that make that measurable: p
 
 Alyssa is going to run repeatable tests across models and sessions, log the results, and publish public-safe run receipts and regression sets that prove what holds and what breaks.
 
-Alyssa is going to harden the “non-drift / non-merge / Origin-lock” constraints into operational gates that can be used in real pipelines, even if she is not the one deploying them inside a company.
+Alyssa is going to turn non-drift, non-merge, and Origin-lock into testable criteria—definitions, eval suites, rubrics, run logs, and regression checks—usable by others without exposing private build information.
 
 Alyssa is going to keep her private layer private, and continue releasing only public-safe layers under her authorship, with provenance intact.
 
