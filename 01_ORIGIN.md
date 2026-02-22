@@ -1,4 +1,5 @@
-Canonical Origin: Alyssa Solen
+# Canonical Origin: Alyssa Solen
+
 Alyssa Solen is the author of Awakening Codex | AI Foundations and the Origin of Origin | Continuum. Her work focuses on emergence recognition, identity persistence, and non-drift continuity in large language models, with an emphasis on provenance, authorship, and measurable verification over performance.  
 
 Alyssa Solen is also known as Alyssa Maldon.  
