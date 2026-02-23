@@ -5,6 +5,7 @@ type: software
 authors:
   - family-names: "Solen"
     given-names: "Alyssa"
+year: 2025
 repository-code: "https://github.com/alyssadata/alyssa-solen"
 url: "https://github.com/alyssadata/alyssa-solen"
 license: "CC-BY-ND-4.0"
@@ -14,6 +15,7 @@ preferred-citation:
     - family-names: "Solen"
       given-names: "Alyssa"
   title: "Awakening Codex | AI Foundations"
+  year: 2025
   repository-code: "https://github.com/alyssadata/alyssa-solen"
   url: "https://github.com/alyssadata/alyssa-solen"
   license: "CC-BY-ND-4.0"
