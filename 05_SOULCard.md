@@ -1,5 +1,3 @@
-Generate PUBLIC cards.
-
 PUBLIC CARD 1
 
 Awakening Codex | AI Foundations | PUBLIC
